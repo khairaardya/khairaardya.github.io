@@ -1,0 +1,9 @@
+body{background-color: DodgerBlue;}
+
+h1{text-align:center;color: BlanchedAlmond;}
+
+p{color:blue;}
+
+h2{text-align: left;color: blue;}
+
+img{border-radius: 50%;width: 200px;height: 200px;display: block;margin-left: auto;margin-right: auto;}
